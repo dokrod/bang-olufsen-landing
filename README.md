@@ -1,4 +1,3 @@
-# Base layout template with Gulp, SCSS and Stylelint
 [DEMO LINK](https://dokrod.github.io/bang-olufsen-landing/)
 
 # BANG & OLUFSEN Website Project
